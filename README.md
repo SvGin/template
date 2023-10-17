@@ -9,3 +9,5 @@ This site was created in order to get familiar with common development tools lik
 ## Technology
 
 This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
+
+![alt Image of the person stamfing in the water with sunset on the background](https://https://unsplash.com/photos/odxB5oIG_iA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
