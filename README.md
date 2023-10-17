@@ -10,4 +10,5 @@ This site was created in order to get familiar with common development tools lik
 
 This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
 
-![alt Image of the person stamfing in the water with sunset on the background](https://https://unsplash.com/photos/odxB5oIG_iA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+Photo by <a href="https://unsplash.com/@coopery?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mohamed Nohassi</a> on <a href="https://unsplash.com/photos/odxB5oIG_iA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
